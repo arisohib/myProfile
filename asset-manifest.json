@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/myProfile/static/css/main.ac51e537.css",
+    "main.js": "/myProfile/static/js/main.a0f05005.js",
+    "static/js/415.4d6acbeb.chunk.js": "/myProfile/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/myProfile/static/js/787.1ed0c42c.chunk.js",
+    "static/media/SITARUBOYO.PNG": "/myProfile/static/media/SITARUBOYO.8d82b3b2b59b02b0a8cf.PNG",
+    "static/media/SIMONIKA.PNG": "/myProfile/static/media/SIMONIKA.e12cdb21767ae0961d54.PNG",
+    "static/media/KLHK.PNG": "/myProfile/static/media/KLHK.862ecbe0dd850ad4943e.PNG",
+    "static/media/CV_Ari_2022.pdf": "/myProfile/static/media/CV_Ari_2022.641c73506634fc7756b2.pdf",
+    "static/media/MANLAB.PNG": "/myProfile/static/media/MANLAB.552abf63ca10e821207c.PNG",
+    "static/media/emotion.png": "/myProfile/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/serviskita.PNG": "/myProfile/static/media/serviskita.f5f558778f3f50795033.PNG",
+    "static/media/home-main.svg": "/myProfile/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/myProfile/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/myProfile/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/myProfile/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/myProfile/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/myProfile/index.html",
+    "main.ac51e537.css.map": "/myProfile/static/css/main.ac51e537.css.map",
+    "main.a0f05005.js.map": "/myProfile/static/js/main.a0f05005.js.map",
+    "415.4d6acbeb.chunk.js.map": "/myProfile/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/myProfile/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac51e537.css",
+    "static/js/main.a0f05005.js"
+  ]
+}
