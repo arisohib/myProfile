@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/myProfile/static/css/main.ac51e537.css",
-    "main.js": "/myProfile/static/js/main.e74686cc.js",
+    "main.css": "/myProfile/static/css/main.26c86ae7.css",
+    "main.js": "/myProfile/static/js/main.812b0589.js",
     "static/js/415.4d6acbeb.chunk.js": "/myProfile/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/myProfile/static/js/787.1ed0c42c.chunk.js",
     "static/media/SITARUBOYO.PNG": "/myProfile/static/media/SITARUBOYO.8d82b3b2b59b02b0a8cf.PNG",
     "static/media/SIMONIKA.PNG": "/myProfile/static/media/SIMONIKA.e12cdb21767ae0961d54.PNG",
     "static/media/KLHK.PNG": "/myProfile/static/media/KLHK.862ecbe0dd850ad4943e.PNG",
+    "static/media/CV_Ari_Sohibussultoni_Latest.pdf": "/myProfile/static/media/CV_Ari_Sohibussultoni_Latest.7c87e1bc86f9bafda9a1.pdf",
     "static/media/MANLAB.PNG": "/myProfile/static/media/MANLAB.552abf63ca10e821207c.PNG",
     "static/media/emotion.png": "/myProfile/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/serviskita.PNG": "/myProfile/static/media/serviskita.f5f558778f3f50795033.PNG",
-    "static/media/home-main.svg": "/myProfile/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/home-main.svg": "/myProfile/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/myProfile/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/AriSohibussultoni_CV_Academy.pdf": "/myProfile/static/media/AriSohibussultoni_CV_Academy.e18fd20a746ee926efe3.pdf",
     "static/media/home-bg.jpg": "/myProfile/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/myProfile/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
-    "static/media/pre.svg": "/myProfile/static/media/pre.4410c5baaa673cc131da.svg",
+    "static/media/avatar.svg": "/myProfile/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/myProfile/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/myProfile/index.html",
-    "main.ac51e537.css.map": "/myProfile/static/css/main.ac51e537.css.map",
-    "main.e74686cc.js.map": "/myProfile/static/js/main.e74686cc.js.map",
+    "main.26c86ae7.css.map": "/myProfile/static/css/main.26c86ae7.css.map",
+    "main.812b0589.js.map": "/myProfile/static/js/main.812b0589.js.map",
     "415.4d6acbeb.chunk.js.map": "/myProfile/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/myProfile/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac51e537.css",
-    "static/js/main.e74686cc.js"
+    "static/css/main.26c86ae7.css",
+    "static/js/main.812b0589.js"
   ]
 }
