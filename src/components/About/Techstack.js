@@ -48,6 +48,9 @@ function Techstack() {
         <DiPhp />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <DiDart />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <DiCodeigniter />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
@@ -65,16 +68,20 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiWordpress />
       </Col>
-      
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
       </Col>
-
       <Col xs={4} md={2} className="tech-icons">
         <DiMysql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPostgresql />
+      </Col> 
+      <Col xs={4} md={2} className="tech-icons">
+        <DiAws />
+      </Col> 
+      <Col xs={4} md={2} className="tech-icons">
+        <DiDocker />
       </Col>     
     </Row>
   );
