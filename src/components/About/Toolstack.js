@@ -8,13 +8,20 @@ import {
   DiUbuntu,
   DiWindows,
   DiAndroid,
-  
+  DiApple,
+  DiGithubAlt
 } from "react-icons/di";
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
+        <DiApple />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <DiWindows />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiUbuntu />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode />
@@ -26,8 +33,9 @@ function Toolstack() {
         <DiAndroid />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiUbuntu />
+        <DiGithubAlt />
       </Col>
+      
     </Row>
   );
 }

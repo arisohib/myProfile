@@ -8,6 +8,7 @@ import manlab from "../../Assets/Projects/MANLAB.PNG";
 import simonika from "../../Assets/Projects/SIMONIKA.PNG";
 import serviskita from "../../Assets/Projects/serviskita.PNG";
 import sitaruboyo from "../../Assets/Projects/SITARUBOYO.PNG";
+import Card from "react-bootstrap/Card";
 
 function Projects() {
   return (
@@ -50,7 +51,7 @@ function Projects() {
               title="MANLAB"
               description="Clinical application for the online registration process, PCR Swab registration, print registration cards, print lab test results, and various medical checkups and their prices"
               ghLink="https://github.com/arisohib"
-              // demoLink="https://editor.soumya-jit.tech/"              
+              // demoLink="https://editor.soumya-jit.tech/"
             />
           </Col>
 
@@ -72,10 +73,9 @@ function Projects() {
               title="Serviskita.com"
               description="This application is an online shuttle service. the purpose of making this application is to make it easier for services that can be done from home. This application was built using the Laravel framework, MySQL. with a multi-role flow scheme. each user will have a member area and implement the SSO (Single Sign On) system."
               ghLink="https://github.com/arisohib"
-              demoLink="https://apps.serviskita.com/login" 
+              demoLink="https://apps.serviskita.com/login"
             />
           </Col>
-
         </Row>
       </Container>
     </Container>

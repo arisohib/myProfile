@@ -16,6 +16,9 @@ import {
   DiCodeigniter,
   DiPhp,
   DiGo,
+  DiAws,
+  DiDart,
+  DiDocker,
 } from "react-icons/di";
 import {
 
@@ -30,10 +33,22 @@ function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <DiCodeigniter />
+        <DiPython />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiGo/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiRuby />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiPhp />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiCodeigniter />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiRor />
@@ -50,27 +65,17 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiWordpress />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiRuby />
-      </Col>
+      
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiPhp />
-      </Col>
+
       <Col xs={4} md={2} className="tech-icons">
         <DiMysql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPostgresql />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiGo/>
-      </Col>
+      </Col>     
     </Row>
   );
 }
